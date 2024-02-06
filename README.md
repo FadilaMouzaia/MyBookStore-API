@@ -1,2 +1,2 @@
 # Book Store REST API Web App 
-This project created by node js 
+Book store API built with Node.js, Express.js and MongoDB
