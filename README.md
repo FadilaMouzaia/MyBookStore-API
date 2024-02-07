@@ -6,9 +6,9 @@ It is built with Node.js and Express Framework with Javascript. In addition, the
 ## Usage
 * Install Mongo DB on your local machine or use Mongo DB Cloud
 * Create images folder in your project
-### Install Dependencies
+## Install Dependencies
 npm install
-### Run
+## Run
 npm start
 
 
