@@ -8,10 +8,10 @@ It is built with Node.js and Express Framework with Javascript. In addition, the
 * Create images folder in your project
 ### Environment Variables
 Create an .env file at the root of your project and add the following to it  
-...MONGO_URI="mongodb://127.0.0.1/bookstoredb"
+MONGO_URI= your mongodb uri
 PORT=5005
 NODE_ENV = developement
 JWT_SECRET_KEY = your jwt secret key
 USER_EMAIL = your email service for sending email
 USER_PASS = your email service password
-...
+
